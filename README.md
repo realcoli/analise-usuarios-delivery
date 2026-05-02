@@ -57,9 +57,9 @@ An investigation into tipping habits to understand customer generosity and satis
 - Implement customer segmentation clusters (e.g., occasional vs. heavy users).
 - Conduct A/B testing on promotional campaigns to boost weekday demand.
 
-## ✍️ Autoria e Contato
+## ✍️ Author & Contact
 
-Desenvolvido por **Renata Alves**. Se você tiver alguma dúvida, sugestão ou quiser conversar sobre este projeto, sinta-se à vontade para entrar em contato:
+Developed by **Renata Alves**. If you have any questions, suggestions, or would like to discuss this project, feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realcoli)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realcoli)
