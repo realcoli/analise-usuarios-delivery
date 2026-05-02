@@ -5,7 +5,6 @@
 Projeto orientado à geração de insights estratégicos com base em dados reais de consumo...
 
 
-
 ---
 ---
 
