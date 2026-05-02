@@ -1,8 +1,6 @@
-# 📊 Análise de Comportamento de Usuários de Delivery
+# 📊 Delivery User Behavior & Revenue Analysis
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GNxiTzfROMjAwSE2AFFOtniFGfwDZZVO?usp=sharing)
-
-# 📊 Delivery User Behavior & Revenue Analysis
 
 This project analyzes customer consumption habits and tipping patterns in the food delivery sector to identify growth opportunities, optimize operational revenue, and maximize the average ticket.
 
