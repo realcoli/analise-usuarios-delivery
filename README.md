@@ -15,7 +15,6 @@ This project analyzes customer consumption habits and tipping patterns in the fo
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Environment:** Google Colab
 
-## 📈 Analysis & Key Insights (Including Charts)
 
 ## 📈 Analysis & Key Insights (Including Charts)
 
@@ -49,7 +48,7 @@ We evaluated how the number of people in an order changes the final bill value.
 ### 4. Tipping Analysis
 An investigation into tipping habits to understand customer generosity and satisfaction.
 
-![Tips Analysis](gráficos/4_relacao_conta_gorjetas.png)
+![Tips Analysis](gráficos/4_relacao_conta_gorjeta.png)
 
 
 * **Business Insight:** Understanding tipping patterns allows for better engagement strategies, such as suggesting default tip percentages at checkout to reward drivers and improve retention.
