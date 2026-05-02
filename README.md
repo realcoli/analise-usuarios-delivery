@@ -17,10 +17,12 @@ This project analyzes customer consumption habits and tipping patterns in the fo
 
 ## 📈 Analysis & Key Insights (Including Charts)
 
+## 📈 Analysis & Key Insights (Including Charts)
+
 ### 1. Distribution of Total Bill Value
 We analyzed how much customers typically spend on their delivery orders.
 
-![Bill Value Distribution](images/1_distribuicao_valor_conta.png)
+![Bill Value Distribution](gráficos/1_distribuicao_valor_conta.png)
 
 * **Business Insight:** Most orders are concentrated in a specific spending range. This insight helps determine optimal pricing strategies and minimum order thresholds for free delivery.
 
@@ -29,7 +31,7 @@ We analyzed how much customers typically spend on their delivery orders.
 ### 2. Revenue Evolution by Dining Period
 We mapped the platform's revenue generation across different times of the day (e.g., Lunch vs. Dinner).
 
-![Revenue by Period](images/2_faturamento_periodo.png)
+![Revenue by Period](gráficos/2_faturamento_periodo.png)
 
 * **Business Insight:** **Dinner** stands out as the most profitable period. To capitalize on this peak demand, it is highly recommended to concentrate push notifications and targeted promotional offers during the late afternoon.
 
@@ -38,7 +40,7 @@ We mapped the platform's revenue generation across different times of the day (e
 ### 3. Impact of Party Size on the Average Ticket
 We evaluated how the number of people in an order changes the final bill value.
 
-![Party Size vs. Total Bill](images/3_impacto_tamanho_grupo.png)
+![Party Size vs. Total Bill](gráficos/3_gasto_medio_dia.png)
 
 * **Business Insight:** Larger parties directly correlate with higher spending. Introducing "Family Size" combo options on the menu is a major opportunity to further increase the platform's average ticket.
 
@@ -47,7 +49,8 @@ We evaluated how the number of people in an order changes the final bill value.
 ### 4. Tipping Analysis
 An investigation into tipping habits to understand customer generosity and satisfaction.
 
-![Tips Analysis](images/4_analise_gorjetas.png)
+![Tips Analysis](gráficos/4_relacao_conta_gorjetas.png)
+
 
 * **Business Insight:** Understanding tipping patterns allows for better engagement strategies, such as suggesting default tip percentages at checkout to reward drivers and improve retention.
 
