@@ -1,3 +1,23 @@
+# 📊 Análise de Comportamento de Usuários de Delivery
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GNxiTzfROMjAwSE2AFFOtniFGfwDZZVO?usp=sharing)
+
+Projeto orientado à geração de insights estratégicos com base em dados reais de consumo...
+
+
+
+---
+
+## ✍️ Autoria e Contato
+
+Desenvolvido por **Renata**. Se você tiver alguma dúvida, sugestão ou quiser conversar sobre este projeto, sinta-se à vontade para entrar em contato:
+
+* **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+* **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
+* **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+
+///////////////////////////////////////////////////////
+
 # 📊 Análise de Comportamento de Clientes e Gorjetas
 
 ## 🎯 Objetivo
