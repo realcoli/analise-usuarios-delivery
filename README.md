@@ -2,11 +2,60 @@
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GNxiTzfROMjAwSE2AFFOtniFGfwDZZVO?usp=sharing)
 
-Projeto orientado à geração de insights estratégicos com base em dados reais de consumo...
+# 📊 Delivery User Behavior & Revenue Analysis
 
+This project analyzes customer consumption habits and tipping patterns in the food delivery sector to identify growth opportunities, optimize operational revenue, and maximize the average ticket.
+
+## 🎯 Project Objectives
+- Understand temporal sales distribution and the most profitable periods.
+- Evaluate the direct impact of group sizes on overall spending.
+- Analyze customer tipping behaviors and their correlation with total bill value.
+- Provide strategic marketing and operational recommendations based on the data.
+
+## 🛠️ Technologies & Tools
+- **Language:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Environment:** Google Colab
+
+## 📈 Analysis & Key Insights (Including Charts)
+
+### 1. Distribution of Total Bill Value
+We analyzed how much customers typically spend on their delivery orders.
+
+![Bill Value Distribution](images/1_distribuicao_valor_conta.png)
+
+* **Business Insight:** Most orders are concentrated in a specific spending range. This insight helps determine optimal pricing strategies and minimum order thresholds for free delivery.
 
 ---
+
+### 2. Revenue Evolution by Dining Period
+We mapped the platform's revenue generation across different times of the day (e.g., Lunch vs. Dinner).
+
+![Revenue by Period](images/2_faturamento_periodo.png)
+
+* **Business Insight:** **Dinner** stands out as the most profitable period. To capitalize on this peak demand, it is highly recommended to concentrate push notifications and targeted promotional offers during the late afternoon.
+
 ---
+
+### 3. Impact of Party Size on the Average Ticket
+We evaluated how the number of people in an order changes the final bill value.
+
+![Party Size vs. Total Bill](images/3_impacto_tamanho_grupo.png)
+
+* **Business Insight:** Larger parties directly correlate with higher spending. Introducing "Family Size" combo options on the menu is a major opportunity to further increase the platform's average ticket.
+
+---
+
+### 4. Tipping Analysis
+An investigation into tipping habits to understand customer generosity and satisfaction.
+
+![Tips Analysis](images/4_analise_gorjetas.png)
+
+* **Business Insight:** Understanding tipping patterns allows for better engagement strategies, such as suggesting default tip percentages at checkout to reward drivers and improve retention.
+
+## 🔮 Next Steps
+- Implement customer segmentation clusters (e.g., occasional vs. heavy users).
+- Conduct A/B testing on promotional campaigns to boost weekday demand.
 
 ## ✍️ Autoria e Contato
 
@@ -16,69 +65,3 @@ Desenvolvido por **Renata Alves**. Se você tiver alguma dúvida, sugestão ou q
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realcoli)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renata.alvescl@gmail.com)
 
-
-
-//////////////////////////////////////////////////////
-## ✍️ Autoria e Contato
-
-Desenvolvido por **Renata**. Se você tiver alguma dúvida, sugestão ou quiser conversar sobre este projeto, sinta-se à vontade para entrar em contato:
-
-* **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-* **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
-* **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
-
-///////////////////////////////////////////////////////
-
-# 📊 Análise de Comportamento de Clientes e Gorjetas
-
-## 🎯 Objetivo
-Investigar padrões de consumo e identificar fatores que influenciam o valor das gorjetas em um restaurante, com foco em comportamento do cliente.
-
----
-
-## 📁 Dataset
-O dataset contém informações sobre:
-- Valor da conta (`total_bill`)
-- Gorjeta (`tip`)
-- Sexo do cliente (`sex`)
-- Fumante (`smoker`)
-- Dia da semana (`day`)
-- Período (`time`)
-- Número de pessoas (`size`)
-
----
-
-## 🔍 Análises Realizadas
-
-### 📊 Distribuição das contas
-A maior parte das contas está concentrada entre valores de 10 a 20, com presença de alguns clientes de maior gasto.
-
-### 👥 Gorjeta por sexo
-Clientes do sexo masculino apresentam maior variabilidade nas gorjetas, enquanto clientes do sexo feminino demonstram comportamento mais consistente.
-
-### 📅 Gorjeta por dia da semana
-Os maiores valores de gorjeta ocorrem nos finais de semana, especialmente aos domingos.
-
-### 🚬 Fumantes vs não fumantes
-Clientes fumantes apresentam leve tendência a gorjetas maiores, porém sem diferença significativa.
-
-### 🔗 Relação entre conta e gorjeta
-Existe uma relação positiva entre o valor da conta e o valor da gorjeta, indicando que clientes que gastam mais tendem a oferecer gorjetas maiores.
-
----
-
-## 🧠 Conclusão
-O valor da gorjeta está mais relacionado ao contexto da refeição (como dia da semana e valor da conta) do que a características individuais dos clientes.
-
----
-
-## 🛠️ Tecnologias
-- Python
-- Pandas
-- Seaborn
-- Matplotlib
-
----
-
-## 📎 Arquivo principal
-- Notebook: `analise_comportamento_clientes.ipynb`
